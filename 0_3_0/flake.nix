@@ -11,6 +11,7 @@
   inputs.src-delaunay-0_3_0.ref   = "refs/tags/0.3.0";
   inputs.src-delaunay-0_3_0.owner = "Nycto";
   inputs.src-delaunay-0_3_0.repo  = "DelaunayNim";
+  inputs.src-delaunay-0_3_0.dir   = "";
   inputs.src-delaunay-0_3_0.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:

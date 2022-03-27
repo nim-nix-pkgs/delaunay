@@ -11,6 +11,7 @@
   inputs.src-delaunay-master.ref   = "refs/heads/master";
   inputs.src-delaunay-master.owner = "Nycto";
   inputs.src-delaunay-master.repo  = "DelaunayNim";
+  inputs.src-delaunay-master.dir   = "";
   inputs.src-delaunay-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
