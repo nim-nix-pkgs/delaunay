@@ -7,7 +7,7 @@
   "license": "MIT",
   "web": "https://github.com/Nycto/DelaunayNim",
   "refs": [
-    "fatal: unable to access 'https://github.com/Nycto/DelaunayNim/': SSL connection timeout",
+    "fatal: unable to access 'https://github.com/Nycto/DelaunayNim/': Could not resolve host: github.com",
     ""
   ],
   "heads": []
